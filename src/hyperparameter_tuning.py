@@ -4,7 +4,7 @@ import joblib
 import pandas as pd
 
 # Load data
-df = pd.read_csv('Data/Preprocessed_ipf.csv')
+df = pd.read_csv('Data/preprocessed_data.csv')
 X = df.drop(columns=['Movement'])
 y = df['Movement']
 

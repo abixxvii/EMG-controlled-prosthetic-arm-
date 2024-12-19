@@ -1,0 +1,245 @@
+Time Window,Movement,EMG Value
+0,4fingerflex,59.07692308
+1,4fingerflex,70.1
+2,4fingerflex,58.55
+3,4fingerflex,294.2
+4,4fingerflex,104.8
+5,4fingerflex,61.55
+6,4fingerflex,62.05
+7,4fingerflex,73
+8,4fingerflex,276.55
+9,4fingerflex,114.05
+10,4fingerflex,70.35
+11,4fingerflex,67.75
+12,4fingerflex,62
+13,4fingerflex,78.95
+14,4fingerflex,309.75
+15,4fingerflex,67.2
+16,4fingerflex,72.55
+17,4fingerflex,54.10526316
+18,4fingerflex,60.4
+19,4fingerflex,289.6
+20,4fingerflex,104.75
+21,4fingerflex,75.75
+22,4fingerflex,57.75
+23,4fingerflex,75.2
+24,4fingerflex,307.4
+25,4fingerflex,107.5
+26,4fingerflex,77.73684211
+27,4fingerflex,60.4
+28,4fingerflex,69.85
+29,4fingerflex,226.4
+30,4fingerflex,203.1
+31,4fingerflex,60.65
+32,4fingerflex,66.25
+33,4fingerflex,50.5
+34,4fingerflex,53.7
+35,4fingerflex,351.8947368
+36,4fingerflex,111.55
+37,4fingerflex,64.25
+38,4fingerflex,56.25
+39,4fingerflex,60.2
+40,4fingerflex,72.6
+41,4fingerflex,349.6
+42,4fingerflex,78.05
+43,4fingerflex,63.45
+44,4fingerflex,51.85
+45,4fingerflex,59.36842105
+46,4fingerflex,324.85
+47,4fingerflex,62.65
+48,4fingerflex,77.4
+49,4fingerflex,60.05
+50,4fingerflex,58.65
+51,4fingerflex,159.7
+52,4fingerflex,195.05
+53,4fingerflex,83.3
+54,4fingerflex,73.57894737
+55,4fingerflex,59.85
+56,4fingerflex,48.15
+57,4fingerflex,184.6
+58,4fingerflex,85.85
+59,4fingerflex,76.4
+60,4fingerflex,80
+61,Index Flex,48.25925926
+62,Index Flex,48
+63,Index Flex,53
+64,Index Flex,54.4
+65,Index Flex,52.7
+66,Index Flex,44.26315789
+67,Index Flex,46.4
+68,Index Flex,46.6
+69,Index Flex,50.3
+70,Index Flex,50.35
+71,Index Flex,49.85
+72,Index Flex,46.85
+73,Index Flex,52.15
+74,Index Flex,53.6
+75,Index Flex,57.25
+76,Index Flex,53.47368421
+77,Index Flex,49.8
+78,Index Flex,48.5
+79,Index Flex,57.85
+80,Index Flex,56.35
+81,Index Flex,53.15
+82,Index Flex,55.5
+83,Index Flex,52.35
+84,Index Flex,52.4
+85,Index Flex,61.55
+86,Index Flex,71.15789474
+87,Index Flex,58.85
+88,Index Flex,55.4
+89,Index Flex,45.5
+90,Index Flex,47.35
+91,Index Flex,53.85
+92,Index Flex,55.1
+93,Index Flex,64
+94,Index Flex,63.4
+95,Index Flex,49.68421053
+96,Index Flex,52.4
+97,Index Flex,66.6
+98,Index Flex,54.25
+99,Index Flex,59.3
+100,Index Flex,56.25
+101,Index Flex,49.95
+102,Index Flex,54.6
+103,Index Flex,60.1
+104,Index Flex,52.8
+105,Index Flex,51.78947368
+106,Index Flex,56.15
+107,Index Flex,47.5
+108,Index Flex,50.05
+109,Index Flex,53.65
+110,Index Flex,56.7
+111,Index Flex,53.45
+112,Index Flex,51.8
+113,Index Flex,50.25
+114,Index Flex,50.4
+115,Index Flex,50.9
+116,Index Flex,55.73684211
+117,Index Flex,51.3
+118,Index Flex,46.5
+119,Index Flex,47.55
+120,Index Flex,59.4
+121,Index Flex,60
+122,Pinky Flex,49.21818182
+123,Pinky Flex,75
+124,Pinky Flex,98.10526316
+125,Pinky Flex,66.35
+126,Pinky Flex,54.9
+127,Pinky Flex,63.85
+128,Pinky Flex,62
+129,Pinky Flex,51.55
+130,Pinky Flex,57.45
+131,Pinky Flex,87.8
+132,Pinky Flex,65.3
+133,Pinky Flex,62.9
+134,Pinky Flex,66.73684211
+135,Pinky Flex,82.25
+136,Pinky Flex,55.55
+137,Pinky Flex,56.1
+138,Pinky Flex,51.9
+139,Pinky Flex,82.15
+140,Pinky Flex,59.65
+141,Pinky Flex,64.1
+142,Pinky Flex,76.55
+143,Pinky Flex,113.2631579
+144,Pinky Flex,70.35
+145,Pinky Flex,57.5
+146,Pinky Flex,74.8
+147,Pinky Flex,108.45
+148,Pinky Flex,53.4
+149,Pinky Flex,67.75
+150,Pinky Flex,100.85
+151,Pinky Flex,106.6
+152,Pinky Flex,55.7
+153,Pinky Flex,63.78947368
+154,Pinky Flex,114.25
+155,Pinky Flex,57
+156,Pinky Flex,49.6
+157,Pinky Flex,69.75
+158,Pinky Flex,129.3
+159,Pinky Flex,50.75
+160,Pinky Flex,56.3
+161,Pinky Flex,63.65
+162,Pinky Flex,113
+163,Pinky Flex,62.85
+164,Pinky Flex,66.15
+165,Pinky Flex,58.6
+166,Pinky Flex,108.3
+167,Pinky Flex,57.3
+168,Pinky Flex,52.9
+169,Pinky Flex,70.5
+170,Pinky Flex,126.95
+171,Pinky Flex,57
+172,Pinky Flex,60.78947368
+173,Pinky Flex,67.45
+174,Pinky Flex,101.45
+175,Pinky Flex,57.85
+176,Pinky Flex,61.8
+177,Pinky Flex,67
+178,Pinky Flex,95.2
+179,Pinky Flex,59.9
+180,Pinky Flex,51.05
+181,Pinky Flex,65.26315789
+182,Pinky Flex,105
+183,Middle Flex,50.11538462
+184,Middle Flex,102.4
+185,Middle Flex,86.15789474
+186,Middle Flex,59.15
+187,Middle Flex,66.7
+188,Middle Flex,53.15
+189,Middle Flex,95.7
+190,Middle Flex,138.75
+191,Middle Flex,57.55
+192,Middle Flex,48.55
+193,Middle Flex,46.95
+194,Middle Flex,64.25
+195,Middle Flex,135.4736842
+196,Middle Flex,74.2
+197,Middle Flex,64.15
+198,Middle Flex,65.55
+199,Middle Flex,100.35
+200,Middle Flex,144.65
+201,Middle Flex,65.55
+202,Middle Flex,54.45
+203,Middle Flex,53.8
+204,Middle Flex,72.84210526
+205,Middle Flex,156.25
+206,Middle Flex,89.05
+207,Middle Flex,68.5
+208,Middle Flex,87.45
+209,Middle Flex,106.1
+210,Middle Flex,72.9
+211,Middle Flex,70.15
+212,Middle Flex,62.55
+213,Middle Flex,103.6315789
+214,Middle Flex,104.05
+215,Middle Flex,65.35
+216,Middle Flex,72.5
+217,Middle Flex,68.55
+218,Middle Flex,97.8
+219,Middle Flex,89
+220,Middle Flex,73.65
+221,Middle Flex,71.65
+222,Middle Flex,61.1
+223,Middle Flex,103.7368421
+224,Middle Flex,80
+225,Middle Flex,63.25
+226,Middle Flex,64.85
+227,Middle Flex,79.65
+228,Middle Flex,118
+229,Middle Flex,66.95
+230,Middle Flex,63.65
+231,Middle Flex,59.05
+232,Middle Flex,90.15789474
+233,Middle Flex,107.7
+234,Middle Flex,82.1
+235,Middle Flex,65.25
+236,Middle Flex,56.75
+237,Middle Flex,103.75
+238,Middle Flex,114.75
+239,Middle Flex,79.85
+240,Middle Flex,71
+241,Middle Flex,61.35
+242,Middle Flex,71.31578947
+243,Middle Flex,102.75

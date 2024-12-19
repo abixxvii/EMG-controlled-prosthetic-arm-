@@ -6,7 +6,7 @@ import joblib
 import os
 
 # Load the dataset (adjust the path if needed)
-df = pd.read_csv('Data/preprocessed_ipf.csv')
+df = pd.read_csv('Data/preprocessed_data.csv')
 
 # Check for missing values
 if df.isnull().sum().any():

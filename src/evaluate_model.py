@@ -6,7 +6,7 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 
 # Load data
-df = pd.read_csv('Data/Preprocessed_ipf.csv')
+df = pd.read_csv('Data/preprocessed_data.csv')
 
 # Features and target
 X = df.drop(columns=['Movement'])

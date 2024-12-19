@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load the preprocessed data
-df = pd.read_csv("preprocessed_data.csv")
+df = pd.read_csv("Data/preprocessed_data.csv")
 
 # Visualize the EMG value distribution by movement
 plt.figure(figsize=(10, 6))
