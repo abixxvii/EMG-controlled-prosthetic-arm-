@@ -1,0 +1,428 @@
+Time Window,Movement,EMG Value
+0,4fingerflex,59.07692307692308
+1,4fingerflex,70.1
+2,4fingerflex,58.55
+3,4fingerflex,294.2
+4,4fingerflex,104.8
+5,4fingerflex,61.55
+6,4fingerflex,62.05
+7,4fingerflex,73.0
+8,4fingerflex,276.55
+9,4fingerflex,114.05
+10,4fingerflex,70.35
+11,4fingerflex,67.75
+12,4fingerflex,62.0
+13,4fingerflex,78.95
+14,4fingerflex,309.75
+15,4fingerflex,67.2
+16,4fingerflex,72.55
+17,4fingerflex,54.10526315789474
+18,4fingerflex,60.4
+19,4fingerflex,289.6
+20,4fingerflex,104.75
+21,4fingerflex,75.75
+22,4fingerflex,57.75
+23,4fingerflex,75.2
+24,4fingerflex,307.4
+25,4fingerflex,107.5
+26,4fingerflex,77.73684210526316
+27,4fingerflex,60.4
+28,4fingerflex,69.85
+29,4fingerflex,226.4
+30,4fingerflex,203.1
+31,4fingerflex,60.65
+32,4fingerflex,66.25
+33,4fingerflex,50.5
+34,4fingerflex,53.7
+35,4fingerflex,351.89473684210526
+36,4fingerflex,111.55
+37,4fingerflex,64.25
+38,4fingerflex,56.25
+39,4fingerflex,60.2
+40,4fingerflex,72.6
+41,4fingerflex,349.6
+42,4fingerflex,78.05
+43,4fingerflex,63.45
+44,4fingerflex,51.85
+45,4fingerflex,59.36842105263158
+46,4fingerflex,324.85
+47,4fingerflex,62.65
+48,4fingerflex,77.4
+49,4fingerflex,60.05
+50,4fingerflex,58.65
+51,4fingerflex,159.7
+52,4fingerflex,195.05
+53,4fingerflex,83.3
+54,4fingerflex,73.57894736842105
+55,4fingerflex,59.85
+56,4fingerflex,48.15
+57,4fingerflex,184.6
+58,4fingerflex,85.85
+59,4fingerflex,76.4
+60,4fingerflex,80.0
+159,Index Flex,48.25925925925926
+160,Index Flex,48.0
+161,Index Flex,53.0
+162,Index Flex,54.4
+163,Index Flex,52.7
+164,Index Flex,44.26315789473684
+165,Index Flex,46.4
+166,Index Flex,46.6
+167,Index Flex,50.3
+168,Index Flex,50.35
+169,Index Flex,49.85
+170,Index Flex,46.85
+171,Index Flex,52.15
+172,Index Flex,53.6
+173,Index Flex,57.25
+174,Index Flex,53.473684210526315
+175,Index Flex,49.8
+176,Index Flex,48.5
+177,Index Flex,57.85
+178,Index Flex,56.35
+179,Index Flex,53.15
+180,Index Flex,55.5
+181,Index Flex,52.35
+182,Index Flex,52.4
+183,Index Flex,61.55
+184,Index Flex,71.15789473684211
+185,Index Flex,58.85
+186,Index Flex,55.4
+187,Index Flex,45.5
+188,Index Flex,47.35
+189,Index Flex,53.85
+190,Index Flex,55.1
+191,Index Flex,64.0
+192,Index Flex,63.4
+193,Index Flex,49.68421052631579
+194,Index Flex,52.4
+195,Index Flex,66.6
+196,Index Flex,54.25
+197,Index Flex,59.3
+198,Index Flex,56.25
+199,Index Flex,49.95
+200,Index Flex,54.6
+201,Index Flex,60.1
+202,Index Flex,52.8
+203,Index Flex,51.78947368421053
+204,Index Flex,56.15
+205,Index Flex,47.5
+206,Index Flex,50.05
+207,Index Flex,53.65
+208,Index Flex,56.7
+209,Index Flex,53.45
+210,Index Flex,51.8
+211,Index Flex,50.25
+212,Index Flex,50.4
+213,Index Flex,50.9
+214,Index Flex,55.73684210526316
+215,Index Flex,51.3
+216,Index Flex,46.5
+217,Index Flex,47.55
+218,Index Flex,59.4
+219,Index Flex,60.0
+241,Middle Flex,50.11538461538461
+242,Middle Flex,102.4
+243,Middle Flex,86.15789473684211
+244,Middle Flex,59.15
+245,Middle Flex,66.7
+246,Middle Flex,53.15
+247,Middle Flex,95.7
+248,Middle Flex,138.75
+249,Middle Flex,57.55
+250,Middle Flex,48.55
+251,Middle Flex,46.95
+252,Middle Flex,64.25
+253,Middle Flex,135.47368421052633
+254,Middle Flex,74.2
+255,Middle Flex,64.15
+256,Middle Flex,65.55
+257,Middle Flex,100.35
+258,Middle Flex,144.65
+259,Middle Flex,65.55
+260,Middle Flex,54.45
+261,Middle Flex,53.8
+262,Middle Flex,72.84210526315789
+263,Middle Flex,156.25
+264,Middle Flex,89.05
+265,Middle Flex,68.5
+266,Middle Flex,87.45
+267,Middle Flex,106.1
+268,Middle Flex,72.9
+269,Middle Flex,70.15
+270,Middle Flex,62.55
+271,Middle Flex,103.63157894736842
+272,Middle Flex,104.05
+273,Middle Flex,65.35
+274,Middle Flex,72.5
+275,Middle Flex,68.55
+276,Middle Flex,97.8
+277,Middle Flex,89.0
+278,Middle Flex,73.65
+279,Middle Flex,71.65
+280,Middle Flex,61.1
+281,Middle Flex,103.73684210526316
+282,Middle Flex,80.0
+283,Middle Flex,63.25
+284,Middle Flex,64.85
+285,Middle Flex,79.65
+286,Middle Flex,118.0
+287,Middle Flex,66.95
+288,Middle Flex,63.65
+289,Middle Flex,59.05
+290,Middle Flex,90.15789473684211
+291,Middle Flex,107.7
+292,Middle Flex,82.1
+293,Middle Flex,65.25
+294,Middle Flex,56.75
+295,Middle Flex,103.75
+296,Middle Flex,114.75
+297,Middle Flex,79.85
+298,Middle Flex,71.0
+299,Middle Flex,61.35
+300,Middle Flex,71.3157894736842
+301,Middle Flex,102.75
+337,Ring Flex,150.0
+338,Ring Flex,91.75
+339,Ring Flex,106.8
+340,Ring Flex,75.6
+341,Ring Flex,71.05
+342,Ring Flex,70.15
+343,Ring Flex,131.8
+344,Ring Flex,75.85
+345,Ring Flex,71.26315789473684
+346,Ring Flex,73.35
+347,Ring Flex,74.9
+348,Ring Flex,88.85
+349,Ring Flex,81.85
+350,Ring Flex,67.95
+351,Ring Flex,66.15
+352,Ring Flex,62.8
+353,Ring Flex,91.75
+354,Ring Flex,107.85
+355,Ring Flex,59.0
+356,Ring Flex,71.25
+357,Ring Flex,69.3
+358,Ring Flex,82.6
+359,Ring Flex,93.65
+360,Ring Flex,70.65
+361,Ring Flex,67.1
+362,Ring Flex,67.85
+363,Ring Flex,110.05
+364,Ring Flex,83.10526315789474
+365,Ring Flex,65.8
+366,Ring Flex,75.75
+367,Ring Flex,58.5
+368,Ring Flex,76.1
+369,Ring Flex,99.15
+370,Ring Flex,56.05
+371,Ring Flex,57.9
+372,Ring Flex,53.05
+373,Ring Flex,90.65
+374,Ring Flex,137.0
+375,Ring Flex,48.9
+376,Ring Flex,46.75
+377,Ring Flex,52.55
+378,Ring Flex,80.5
+379,Ring Flex,88.45
+380,Ring Flex,61.3
+381,Ring Flex,69.8
+382,Ring Flex,61.65
+383,Ring Flex,106.15
+384,Ring Flex,102.6842105263158
+385,Ring Flex,54.05
+386,Ring Flex,60.55
+387,Ring Flex,68.2
+388,Ring Flex,128.6
+389,Ring Flex,75.1
+390,Ring Flex,46.6
+391,Ring Flex,54.55
+392,Ring Flex,56.1
+393,Ring Flex,117.9
+394,Ring Flex,108.89473684210526
+395,Ring Flex,52.0
+396,Ring Flex,52.85
+397,Ring Flex,47.6
+461,Pinky Flex,49.21818181818182
+462,Pinky Flex,75.0
+463,Pinky Flex,98.10526315789474
+464,Pinky Flex,66.35
+465,Pinky Flex,54.9
+466,Pinky Flex,63.85
+467,Pinky Flex,62.0
+468,Pinky Flex,51.55
+469,Pinky Flex,57.45
+470,Pinky Flex,87.8
+471,Pinky Flex,65.3
+472,Pinky Flex,62.9
+473,Pinky Flex,66.73684210526316
+474,Pinky Flex,82.25
+475,Pinky Flex,55.55
+476,Pinky Flex,56.1
+477,Pinky Flex,51.9
+478,Pinky Flex,82.15
+479,Pinky Flex,59.65
+480,Pinky Flex,64.1
+481,Pinky Flex,76.55
+482,Pinky Flex,113.26315789473684
+483,Pinky Flex,70.35
+484,Pinky Flex,57.5
+485,Pinky Flex,74.8
+486,Pinky Flex,108.45
+487,Pinky Flex,53.4
+488,Pinky Flex,67.75
+489,Pinky Flex,100.85
+490,Pinky Flex,106.6
+491,Pinky Flex,55.7
+492,Pinky Flex,63.78947368421053
+493,Pinky Flex,114.25
+494,Pinky Flex,57.0
+495,Pinky Flex,49.6
+496,Pinky Flex,69.75
+497,Pinky Flex,129.3
+498,Pinky Flex,50.75
+499,Pinky Flex,56.3
+500,Pinky Flex,63.65
+501,Pinky Flex,113.0
+502,Pinky Flex,62.85
+503,Pinky Flex,66.15
+504,Pinky Flex,58.6
+505,Pinky Flex,108.3
+506,Pinky Flex,57.3
+507,Pinky Flex,52.9
+508,Pinky Flex,70.5
+509,Pinky Flex,126.95
+510,Pinky Flex,57.0
+511,Pinky Flex,60.78947368421053
+512,Pinky Flex,67.45
+513,Pinky Flex,101.45
+514,Pinky Flex,57.85
+515,Pinky Flex,61.8
+516,Pinky Flex,67.0
+517,Pinky Flex,95.2
+518,Pinky Flex,59.9
+519,Pinky Flex,51.05
+520,Pinky Flex,65.26315789473684
+521,Pinky Flex,105.0
+583,Wrist Flexion,55.8
+584,Wrist Flexion,48.85
+585,Wrist Flexion,47.95
+586,Wrist Flexion,58.7
+587,Wrist Flexion,50.75
+588,Wrist Flexion,54.45
+589,Wrist Flexion,51.6
+590,Wrist Flexion,49.9
+591,Wrist Flexion,51.25
+592,Wrist Flexion,48.7
+593,Wrist Flexion,53.05263157894737
+594,Wrist Flexion,53.35
+595,Wrist Flexion,81.6
+596,Wrist Flexion,53.3
+597,Wrist Flexion,52.95
+598,Wrist Flexion,48.6
+599,Wrist Flexion,62.3
+600,Wrist Flexion,61.2
+601,Wrist Flexion,52.25
+602,Wrist Flexion,49.35
+603,Wrist Flexion,47.578947368421055
+604,Wrist Flexion,47.45
+605,Wrist Flexion,46.1
+606,Wrist Flexion,50.45
+607,Wrist Flexion,50.7
+608,Wrist Flexion,50.5
+609,Wrist Flexion,58.6
+610,Wrist Flexion,63.4
+611,Wrist Flexion,54.7
+612,Wrist Flexion,49.21052631578947
+613,Wrist Flexion,56.85
+614,Wrist Flexion,73.25
+615,Wrist Flexion,49.9
+616,Wrist Flexion,47.2
+617,Wrist Flexion,51.8
+618,Wrist Flexion,48.95
+619,Wrist Flexion,51.0
+620,Wrist Flexion,52.25
+621,Wrist Flexion,55.94736842105263
+622,Wrist Flexion,58.42857142857143
+623,Wrist Flexion,56.68421052631579
+624,Wrist Flexion,57.25
+625,Wrist Flexion,46.2
+626,Wrist Flexion,58.1
+627,Wrist Flexion,70.85
+628,Wrist Flexion,52.65
+629,Wrist Flexion,51.35
+630,Wrist Flexion,48.75
+631,Wrist Flexion,54.63157894736842
+632,Wrist Flexion,71.85
+633,Wrist Flexion,47.8
+634,Wrist Flexion,51.0
+635,Wrist Flexion,46.5
+636,Wrist Flexion,56.05
+637,Wrist Flexion,52.95
+638,Wrist Flexion,47.8
+639,Wrist Flexion,63.6
+640,Wrist Flexion,75.65
+641,Wrist Flexion,56.45
+642,Wrist Flexion,53.26315789473684
+643,Wrist Flexion,50.888888888888886
+655,Wrist Extension,55.142857142857146
+656,Wrist Extension,55.9
+657,Wrist Extension,77.78947368421052
+658,Wrist Extension,60.80952380952381
+659,Wrist Extension,49.94736842105263
+660,Wrist Extension,47.25
+661,Wrist Extension,67.95
+662,Wrist Extension,66.3
+663,Wrist Extension,61.5
+664,Wrist Extension,69.45
+665,Wrist Extension,79.75
+666,Wrist Extension,61.2
+667,Wrist Extension,74.55
+668,Wrist Extension,66.84210526315789
+669,Wrist Extension,62.2
+670,Wrist Extension,69.15
+671,Wrist Extension,91.45
+672,Wrist Extension,78.0
+673,Wrist Extension,61.45
+674,Wrist Extension,68.4
+675,Wrist Extension,78.5
+676,Wrist Extension,100.85
+677,Wrist Extension,71.95
+678,Wrist Extension,62.578947368421055
+679,Wrist Extension,58.95
+680,Wrist Extension,72.05
+681,Wrist Extension,59.25
+682,Wrist Extension,66.75
+683,Wrist Extension,65.55
+684,Wrist Extension,75.35
+685,Wrist Extension,116.15
+686,Wrist Extension,134.15
+687,Wrist Extension,56.05
+688,Wrist Extension,54.526315789473685
+689,Wrist Extension,87.4
+690,Wrist Extension,84.0
+691,Wrist Extension,58.3
+692,Wrist Extension,55.85
+693,Wrist Extension,80.55
+694,Wrist Extension,70.3
+695,Wrist Extension,64.8
+696,Wrist Extension,69.21052631578948
+697,Wrist Extension,88.85714285714286
+698,Wrist Extension,79.0
+699,Wrist Extension,60.55
+700,Wrist Extension,65.45
+701,Wrist Extension,80.45
+702,Wrist Extension,83.25
+703,Wrist Extension,58.0
+704,Wrist Extension,57.5
+705,Wrist Extension,77.4
+706,Wrist Extension,81.47368421052632
+707,Wrist Extension,49.3
+708,Wrist Extension,59.35
+709,Wrist Extension,82.6
+710,Wrist Extension,88.0
+711,Wrist Extension,72.0
+712,Wrist Extension,60.25
+713,Wrist Extension,61.65
+714,Wrist Extension,73.1
+715,Wrist Extension,69.26666666666667
