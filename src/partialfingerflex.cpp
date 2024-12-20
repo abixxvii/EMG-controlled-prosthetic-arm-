@@ -29,10 +29,6 @@ int baselineEmg = 0;  // Store baseline EMG value
 const float alpha = 0.1;  // A smaller value (e.g., 0.1) will smooth more
 float smoothedEmgFiltered = 0;  // Smoothed EMG after applying low-pass filter
 
-// Servo movement variables
-int currentThumbPos = 0;  // Store thumb servo position
-int targetThumbPos = 0;   // Target position based on EMG
-
 // Setup function
 void setup() {
   Serial.begin(9600);
@@ -53,7 +49,7 @@ void setup() {
 
 // Reset servos to neutral (resting) position
 void resetServos() {
-  pinkyServo.write(30);    // Pinky fully open (0 degrees)
+  pinkyServo.write(30);    // Pinky fully open (30 degrees)
   ringServo.write(20);     // Ring fully open (20 degrees)
   middleServo.write(160);  // Middle fully open (160 degrees)
   indexServo.write(0);     // Index fully open (0 degrees)
@@ -83,7 +79,7 @@ void loop() {
   if (isCalibrating) {
     if (millis() - calibrationStartTime < calibrationTime) {
       // Provide feedback messages to guide the user
-      Serial.println("Relax your muscles.");
+      Serial.println("Relax and gently flex your muscles.");
     } else {
       isCalibrating = false;
       baselineEmg = smoothedEmg1;  // Set baseline EMG after calibration
@@ -108,13 +104,16 @@ void loop() {
 
   // Apply dynamic thresholding to control the servos based on rectified EMG
   if (smoothedEmg1 > dynamicThresholdHigh) {
-    closeAllFingers();  // Close all fingers when above high threshold
-    Serial.println("Flexing detected: Closing fingers.");
+    // Close all fingers fully
+    closeAllFingers();  
+    Serial.println("High flex detected: Closing all fingers.");
   } else if (smoothedEmg1 > dynamicThresholdLow) {
-    closeRingMiddlePinky();  // Close some fingers when above low threshold
-    Serial.println("Mild flex detected: Closing ring, middle, and pinky.");
+    // Partially flex fingers
+    partialFlexFingers(smoothedEmg1, dynamicThresholdHigh);
+    Serial.println("Moderate flex detected: Partially flexing fingers.");
   } else {
-    resetServos();  // Reset to neutral position when below low threshold
+    // Reset to neutral position
+    resetServos();
     Serial.println("Relaxing detected: Resetting to neutral position.");
   }
 
@@ -123,16 +122,25 @@ void loop() {
 
 // Function to close all fingers fully
 void closeAllFingers() {
-  pinkyServo.write(100);  // Fully close pinky
-  ringServo.write(160);   // Fully close ring
-  middleServo.write(50);  // Fully close middle
-  indexServo.write(180);  // Fully close index
+  pinkyServo.write(90);    // Fully close pinky
+  ringServo.write(160);    // Fully close ring
+  middleServo.write(50);   // Fully close middle
+  indexServo.write(180);   // Fully close index
 }
 
-// Function to close ring, middle, and index fingers only, open pinky
-void closeRingMiddlePinky() {
-  pinkyServo.write(30);   // Keep pinky open
-  ringServo.write(160);   // Fully close ring
-  middleServo.write(50);  // Fully close middle
-  indexServo.write(180);  // Fully close index (continuous servo)
+// Function to partially flex fingers based on the smoothed EMG value
+void partialFlexFingers(int smoothedEmg, int dynamicThresholdHigh) {
+  // Map the smoothed EMG value to a servo position range (0-180 degrees)
+  int pinkyPos = map(smoothedEmg, baselineEmg, dynamicThresholdHigh, 30, 90);
+  int ringPos = map(smoothedEmg, baselineEmg, dynamicThresholdHigh, 20, 90);
+  int middlePos = map(smoothedEmg, baselineEmg, dynamicThresholdHigh, 160, 90);
+  int indexPos = map(smoothedEmg, baselineEmg, dynamicThresholdHigh, 0, 90);
+  int thumbPos = map(smoothedEmg, baselineEmg, dynamicThresholdHigh, 90, 180);
+
+  // Apply the partial flex values to each finger's servo
+  pinkyServo.write(pinkyPos);
+  ringServo.write(ringPos);
+  middleServo.write(middlePos);
+  indexServo.write(indexPos);
+  thumbServo.write(thumbPos);
 }
