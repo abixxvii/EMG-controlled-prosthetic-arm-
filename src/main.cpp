@@ -83,7 +83,7 @@ void loop() {
   if (isCalibrating) {
     if (millis() - calibrationStartTime < calibrationTime) {
       // Provide feedback messages to guide the user
-      Serial.println("Relax your muscles.");
+      Serial.println("Relax and gently flex your muscles.");
     } else {
       isCalibrating = false;
       baselineEmg = smoothedEmg1;  // Set baseline EMG after calibration
